@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="932"
+   height="717"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="instructions_2.svg"
+   inkscape:export-filename="/Users/fabian/Documents/Lab/Experiments/03_Postdoc/05_Generalization/01_Compound_Generalization/02_Summation_Reversal/01_intra-extra/stimuli/instructions_2.png"
+   inkscape:export-xdpi="120"
+   inkscape:export-ydpi="120">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3815"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#0008ff;stop-opacity:1;"
+         offset="0"
+         id="stop3817" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.01"
+     inkscape:cx="476.12112"
+     inkscape:cy="641.44683"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     inkscape:window-width="1252"
+     inkscape:window-height="981"
+     inkscape:window-x="660"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer"
+     transform="translate(5.4736648,3.236871)">
+    <image
+       y="-3.236871"
+       x="-5.4736648"
+       id="image4326"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA6QAAALNCAYAAAA4M6z7AAAABHNCSVQICAgIfAhkiAAAEENJREFU eJzt1zERgEAQwMCHwb8XLKGB/nBBit9VkDbHzMwCAACAf71nXQAAAMCeDCkAAAAJQwoAAEDCkAIA AJAwpAAAACQMKQAAAAlDCgAAQMKQAgAAkDCkAAAAJAwpAAAACUMKAABAwpACAACQMKQAAAAkDCkA AAAJQwoAAEDCkAIAAJAwpAAAACQMKQAAAAlDCgAAQMKQAgAAkDCkAAAAJAwpAAAACUMKAABAwpAC AACQMKQAAAAkDCkAAAAJQwoAAEDCkAIAAJAwpAAAACQMKQAAAAlDCgAAQMKQAgAAkDCkAAAAJAwp AAAACUMKAABAwpACAACQMKQAAAAkDCkAAAAJQwoAAEDCkAIAAJAwpAAAACQMKQAAAAlDCgAAQMKQ AgAAkDCkAAAAJAwpAAAACUMKAABAwpACAACQMKQAAAAkDCkAAAAJQwoAAEDCkAIAAJAwpAAAACQM KQAAAAlDCgAAQMKQAgAAkDCkAAAAJAwpAAAACUMKAABAwpACAACQMKQAAAAkDCkAAAAJQwoAAEDC kAIAAJAwpAAAACQMKQAAAAlDCgAAQMKQAgAAkDCkAAAAJAwpAAAACUMKAABAwpACAACQMKQAAAAk DCkAAAAJQwoAAEDCkAIAAJAwpAAAACQMKQAAAAlDCgAAQMKQAgAAkDCkAAAAJAwpAAAACUMKAABA wpACAACQMKQAAAAkDCkAAAAJQwoAAEDCkAIAAJAwpAAAACQMKQAAAAlDCgAAQMKQAgAAkDCkAAAA JAwpAAAACUMKAABAwpACAACQMKQAAAAkDCkAAAAJQwoAAEDCkAIAAJAwpAAAACQMKQAAAAlDCgAA QMKQAgAAkDCkAAAAJAwpAAAACUMKAABAwpACAACQMKQAAAAkDCkAAAAJQwoAAEDCkAIAAJAwpAAA ACQMKQAAAAlDCgAAQMKQAgAAkDCkAAAAJAwpAAAACUMKAABAwpACAACQMKQAAAAkDCkAAAAJQwoA AEDCkAIAAJAwpAAAACQMKQAAAAlDCgAAQMKQAgAAkDCkAAAAJAwpAAAACUMKAABAwpACAACQMKQA AAAkDCkAAAAJQwoAAEDCkAIAAJAwpAAAACQMKQAAAAlDCgAAQMKQAgAAkDCkAAAAJAwpAAAACUMK AABAwpACAACQMKQAAAAkDCkAAAAJQwoAAEDCkAIAAJAwpAAAACQMKQAAAAlDCgAAQMKQAgAAkDCk AAAAJAwpAAAACUMKAABAwpACAACQMKQAAAAkDCkAAAAJQwoAAEDCkAIAAJAwpAAAACQMKQAAAAlD CgAAQMKQAgAAkDCkAAAAJAwpAAAACUMKAABAwpACAACQMKQAAAAkDCkAAAAJQwoAAEDCkAIAAJAw pAAAACQMKQAAAAlDCgAAQMKQAgAAkDCkAAAAJAwpAAAACUMKAABAwpACAACQMKQAAAAkDCkAAAAJ QwoAAEDCkAIAAJAwpAAAACQMKQAAAAlDCgAAQMKQAgAAkDCkAAAAJAwpAAAACUMKAABAwpACAACQ MKQAAAAkDCkAAAAJQwoAAEDCkAIAAJAwpAAAACQMKQAAAAlDCgAAQMKQAgAAkDCkAAAAJAwpAAAA CUMKAABAwpACAACQMKQAAAAkDCkAAAAJQwoAAEDCkAIAAJAwpAAAACQMKQAAAAlDCgAAQMKQAgAA kDCkAAAAJAwpAAAACUMKAABAwpACAACQMKQAAAAkDCkAAAAJQwoAAEDCkAIAAJAwpAAAACQMKQAA AAlDCgAAQMKQAgAAkDCkAAAAJAwpAAAACUMKAABAwpACAACQMKQAAAAkDCkAAAAJQwoAAEDCkAIA AJAwpAAAACQMKQAAAAlDCgAAQMKQAgAAkDCkAAAAJAwpAAAACUMKAABAwpACAACQMKQAAAAkDCkA AAAJQwoAAEDCkAIAAJAwpAAAACQMKQAAAAlDCgAAQMKQAgAAkDCkAAAAJAwpAAAACUMKAABAwpAC AACQMKQAAAAkDCkAAAAJQwoAAEDCkAIAAJAwpAAAACQMKQAAAAlDCgAAQMKQAgAAkDCkAAAAJAwp AAAACUMKAABAwpACAACQMKQAAAAkDCkAAAAJQwoAAEDCkAIAAJAwpAAAACQMKQAAAAlDCgAAQMKQ AgAAkDCkAAAAJAwpAAAACUMKAABAwpACAACQMKQAAAAkDCkAAAAJQwoAAEDCkAIAAJAwpAAAACQM KQAAAAlDCgAAQMKQAgAAkDCkAAAAJAwpAAAACUMKAABAwpACAACQMKQAAAAkDCkAAAAJQwoAAEDC kAIAAJAwpAAAACQMKQAAAAlDCgAAQMKQAgAAkDCkAAAAJAwpAAAACUMKAABAwpACAACQMKQAAAAk DCkAAAAJQwoAAEDCkAIAAJAwpAAAACQMKQAAAAlDCgAAQMKQAgAAkDCkAAAAJAwpAAAACUMKAABA wpACAACQMKQAAAAkDCkAAAAJQwoAAEDCkAIAAJAwpAAAACQMKQAAAAlDCgAAQMKQAgAAkDCkAAAA JAwpAAAACUMKAABAwpACAACQMKQAAAAkDCkAAAAJQwoAAEDCkAIAAJAwpAAAACQMKQAAAAlDCgAA QMKQAgAAkDCkAAAAJAwpAAAACUMKAABAwpACAACQMKQAAAAkDCkAAAAJQwoAAEDCkAIAAJAwpAAA ACQMKQAAAAlDCgAAQMKQAgAAkDCkAAAAJAwpAAAACUMKAABAwpACAACQMKQAAAAkDCkAAAAJQwoA AEDCkAIAAJAwpAAAACQMKQAAAAlDCgAAQMKQAgAAkDCkAAAAJAwpAAAACUMKAABAwpACAACQMKQA AAAkDCkAAAAJQwoAAEDCkAIAAJAwpAAAACQMKQAAAAlDCgAAQMKQAgAAkDCkAAAAJAwpAAAACUMK AABAwpACAACQMKQAAAAkDCkAAAAJQwoAAEDCkAIAAJAwpAAAACQMKQAAAAlDCgAAQMKQAgAAkDCk AAAAJAwpAAAACUMKAABAwpACAACQMKQAAAAkDCkAAAAJQwoAAEDCkAIAAJAwpAAAACQMKQAAAAlD CgAAQMKQAgAAkDCkAAAAJAwpAAAACUMKAABAwpACAACQMKQAAAAkDCkAAAAJQwoAAEDCkAIAAJAw pAAAACQMKQAAAAlDCgAAQMKQAgAAkDCkAAAAJAwpAAAACUMKAABAwpACAACQMKQAAAAkDCkAAAAJ QwoAAEDCkAIAAJAwpAAAACQMKQAAAAlDCgAAQMKQAgAAkDCkAAAAJAwpAAAACUMKAABAwpACAACQ MKQAAAAkDCkAAAAJQwoAAEDCkAIAAJAwpAAAACQMKQAAAAlDCgAAQMKQAgAAkDCkAAAAJAwpAAAA CUMKAABAwpACAACQMKQAAAAkDCkAAAAJQwoAAEDCkAIAAJAwpAAAACQMKQAAAAlDCgAAQMKQAgAA kDCkAAAAJAwpAAAACUMKAABAwpACAACQMKQAAAAkDCkAAAAJQwoAAEDCkAIAAJAwpAAAACQMKQAA AAlDCgAAQMKQAgAAkDCkAAAAJAwpAAAACUMKAABAwpACAACQMKQAAAAkDCkAAAAJQwoAAEDCkAIA AJAwpAAAACQMKQAAAAlDCgAAQMKQAgAAkDCkAAAAJAwpAAAACUMKAABAwpACAACQMKQAAAAkDCkA AAAJQwoAAEDCkAIAAJAwpAAAACQMKQAAAAlDCgAAQMKQAgAAkDCkAAAAJAwpAAAACUMKAABAwpAC AACQMKQAAAAkDCkAAAAJQwoAAEDCkAIAAJAwpAAAACQMKQAAAAlDCgAAQMKQAgAAkDCkAAAAJAwp AAAACUMKAABAwpACAACQMKQAAAAkDCkAAAAJQwoAAEDCkAIAAJAwpAAAACQMKQAAAAlDCgAAQMKQ AgAAkDCkAAAAJAwpAAAACUMKAABAwpACAACQMKQAAAAkDCkAAAAJQwoAAEDCkAIAAJAwpAAAACQM KQAAAAlDCgAAQMKQAgAAkDCkAAAAJAwpAAAACUMKAABAwpACAACQMKQAAAAkDCkAAAAJQwoAAEDC kAIAAJAwpAAAACQMKQAAAAlDCgAAQMKQAgAAkDCkAAAAJAwpAAAACUMKAABAwpACAACQMKQAAAAk DCkAAAAJQwoAAEDCkAIAAJAwpAAAACQMKQAAAAlDCgAAQMKQAgAAkDCkAAAAJAwpAAAACUMKAABA wpACAACQMKQAAAAkDCkAAAAJQwoAAEDCkAIAAJAwpAAAACQMKQAAAAlDCgAAQMKQAgAAkDCkAAAA JAwpAAAACUMKAABAwpACAACQMKQAAAAkDCkAAAAJQwoAAEDCkAIAAJAwpAAAACQMKQAAAAlDCgAA QMKQAgAAkDCkAAAAJAwpAAAACUMKAABAwpACAACQMKQAAAAkDCkAAAAJQwoAAEDCkAIAAJAwpAAA ACQMKQAAAAlDCgAAQMKQAgAAkDCkAAAAJAwpAAAACUMKAABAwpACAACQMKQAAAAkDCkAAAAJQwoA AEDCkAIAAJAwpAAAACQMKQAAAAlDCgAAQMKQAgAAkDCkAAAAJAwpAAAACUMKAABAwpACAACQMKQA AAAkDCkAAAAJQwoAAEDCkAIAAJAwpAAAACQMKQAAAAlDCgAAQMKQAgAAkDCkAAAAJAwpAAAACUMK AABAwpACAACQMKQAAAAkDCkAAAAJQwoAAEDCkAIAAJAwpAAAACQMKQAAAAlDCgAAQMKQAgAAkDCk AAAAJAwpAAAACUMKAABAwpACAACQMKQAAAAkDCkAAAAJQwoAAEDCkAIAAJAwpAAAACQMKQAAAAlD CgAAQMKQAgAAkDCkAAAAJAwpAAAACUMKAABAwpACAACQMKQAAAAkDCkAAAAJQwoAAEDCkAIAAJAw pAAAACQMKQAAAAlDCgAAQMKQAgAAkDCkAAAAJAwpAAAACUMKAABAwpACAACQMKQAAAAkDCkAAAAJ QwoAAEDCkAIAAJAwpAAAACQMKQAAAAlDCgAAQMKQAgAAkDCkAAAAJAwpAAAACUMKAABAwpACAACQ MKQAAAAkDCkAAAAJQwoAAEDCkAIAAJAwpAAAACQMKQAAAAlDCgAAQMKQAgAAkDCkAAAAJAwpAAAA CUMKAABAwpACAACQMKQAAAAkDCkAAAAJQwoAAEDCkAIAAJAwpAAAACQMKQAAAAlDCgAAQMKQAgAA kDCkAAAAJAwpAAAACUMKAABAwpACAACQMKQAAAAkDCkAAAAJQwoAAEDCkAIAAJAwpAAAACQMKQAA AAlDCgAAQMKQAgAAkDCkAAAAJAwpAAAACUMKAABAwpACAACQMKQAAAAkDCkAAAAJQwoAAEDCkAIA AJAwpAAAACQMKQAAAAlDCgAAQMKQAgAAkDCkAAAAJAwpAAAACUMKAABAwpACAACQMKQAAAAkDCkA AAAJQwoAAEDCkAIAAJAwpAAAACQMKQAAAAlDCgAAQMKQAgAAkDCkAAAAJAwpAAAACUMKAABAwpAC AACQMKQAAAAkDCkAAAAJQwoAAEDCkAIAAJAwpAAAACQMKQAAAAlDCgAAQOJaa911BAAAANt5Pg2W DB9yTZ0rAAAAAElFTkSuQmCC "
+       height="717"
+       width="932"
+       inkscape:export-filename="/Users/fabian/Documents/Lab/Experiments/03_Postdoc/05_Generalization/03_Gradients/program/instructions_1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(5.4736648,-499.12531)">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3056"
+       style="font-size:17.47668076px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       transform="matrix(1,0,0,1.0470597,6.7164215,521.90118)"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"
+       inkscape:export-filename="/Users/fabian/Documents/Lab/Experiments/03_Postdoc/05_Generalization/01_Compound_Generalization/02_Summation_Reversal/01_intra-extra/stimuli/instructions_2.png"><flowRegion
+         id="flowRegion3058"><rect
+           id="rect3060"
+           width="878.21783"
+           height="630.2345"
+           x="16.831684"
+           y="54.950497"
+           style="font-size:17.47668076px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial" /></flowRegion><flowPara
+         id="flowPara3136">Now you will have to make a final evaluation of the drugs that produce allergic reactions in Mr. X. The computer will show you single drugs or combinations of drugs and, as before, you must enter your prediction using a scale that ranges from 0 to 35 points, where 0 points means that the drug produces no allergic reaction and 35 points means that the drug produces an allergic reaction of maximum intensity. Use intermediate values to indicate different degrees of allergic reaction between no allergic reaction and maximum allergic reaction. To confirm your choice, press &quot;Enter&quot; in your keyboard or click the gray button that will be shown below the rating scale. You can change your decision as many times as you want before confirming it (press the return key to continue with the experiment).</flowPara><flowPara
+         id="flowPara3138" /><flowPara
+         id="flowPara3518" /><flowPara
+         id="flowPara3520" /><flowPara
+         id="flowPara3522" /><flowPara
+         id="flowPara3514" /><flowPara
+         id="flowPara3516" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2985"
+       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       transform="translate(-6.6050029,518.13862)"><flowRegion
+         id="flowRegion2987"><rect
+           id="rect2989"
+           width="260.39603"
+           height="43.564358"
+           x="339.60397"
+           y="11.386139"
+           style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
+         id="flowPara2991">INSTRUCTIONS</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2993"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       transform="translate(0,502.36218)"><flowRegion
+         id="flowRegion2995"><rect
+           id="rect2997"
+           width="900.99011"
+           height="465.34653"
+           x="10.891089"
+           y="65.841583"
+           style="font-size:20px;text-align:justify;text-anchor:start" /></flowRegion><flowPara
+         id="flowPara2999" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3020"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       transform="translate(0,502.36218)"><flowRegion
+         id="flowRegion3022"><rect
+           id="rect3024"
+           width="882.17822"
+           height="469.30695"
+           x="18.811882"
+           y="60.89109"
+           style="font-size:20px" /></flowRegion><flowPara
+         id="flowPara3026" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3028"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"><flowRegion
+         id="flowRegion3030"><rect
+           id="rect3032"
+           width="875.2475"
+           height="447.52475"
+           x="23.762377"
+           y="69.801979"
+           style="font-size:20px" /></flowRegion><flowPara
+         id="flowPara3034" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3040"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       transform="translate(0,502.36218)"><flowRegion
+         id="flowRegion3042"><rect
+           id="rect3044"
+           width="28.712872"
+           height="121.78218"
+           x="854.45544"
+           y="99.504951" /></flowRegion><flowPara
+         id="flowPara3046">dddzzzz</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3048"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       transform="translate(0,502.36218)"><flowRegion
+         id="flowRegion3050"><rect
+           id="rect3052"
+           width="4.9504952"
+           height="53.465347"
+           x="28.712872"
+           y="91.58416" /></flowRegion><flowPara
+         id="flowPara3054">z</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="33.605076"
+       y="281.8595"
+       id="text4345"
+       sodipodi:linespacing="125%"
+       transform="translate(0,502.36218)"><tspan
+         sodipodi:role="line"
+         id="tspan4347"
+         x="33.605076"
+         y="281.8595" /><tspan
+         sodipodi:role="line"
+         id="tspan4349"
+         x="33.605076"
+         y="291.8595" /></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3045"
+       style="font-size:8px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+         id="flowRegion3047"><rect
+           id="rect3049"
+           width="119.80198"
+           height="63.366337"
+           x="85.148514"
+           y="347.69305" /></flowRegion><flowPara
+         id="flowPara3051" /></flowRoot>  </g>
+</svg>
